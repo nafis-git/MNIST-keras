@@ -1,4 +1,4 @@
-rom keras.datasets import mnist   # one of keras dataset
+from keras.datasets import mnist   # one of keras dataset
 from keras import models
 from keras import layers
 from keras.utils import to_categorical
